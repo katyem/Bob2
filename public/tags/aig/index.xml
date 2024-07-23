@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIG on Bob&#39;s CV</title>
+    <link>/tags/aig/</link>
+    <description>Recent content in AIG on Bob&#39;s CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/aig/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flood Mopping</title>
+      <link>/projects/creations/smaig/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>/projects/creations/smaig/</guid>
+      <description>Open the doors and let the ocean do its thing.
+Learn more about the Power of the Ocean</description>
+    </item>
+    
+  </channel>
+</rss>
